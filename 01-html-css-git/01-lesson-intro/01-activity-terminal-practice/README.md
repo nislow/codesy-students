@@ -2,13 +2,13 @@
 
 ## From the Terminal/Console, using only the command line
 
-1. Create a new folder with the name of `self-destructing-folder`
+1. Create a new folder with the name of `temp-folder`
 
-2. Create a new txt file with the name `secret-message.txt`
+2. Create a new txt file with the name `temp-file.txt`
 
-3. Copy `secret-message.txt` to the inside of `self-destructing-folder`.
+3. Copy `temp-file.txt` to the inside of `temp-folder`.
 
-4. Delete the original `secret-message.txt` file.
+4. Delete the original `temp-file.txt` file.
 
-5. Delete the `self-destructing-folder`.
+5. Delete the `temp-folder`.
 
