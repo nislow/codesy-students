@@ -8,7 +8,7 @@
 
 4. Run the git config commands `git config --global user.email "you@example.com"`and `git config --global user.name "Your Name"`
 
-4. Run `./configure.sh`
+4. Run `./configure.sh`.
 
 5. Run `git start`.
 
