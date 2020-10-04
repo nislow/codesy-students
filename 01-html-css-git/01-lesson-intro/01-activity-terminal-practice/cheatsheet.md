@@ -49,7 +49,7 @@ Press `tab` key once to autocomplete once you have typed a unique portion of a f
 
 #### Copying File
 
-`cp [filename1] [filename2]`
+`cp [filename1] [filename1 / location]`
 
 #### Move/Rename File
 
