@@ -1,0 +1,24 @@
+#redTitle{
+color: red
+}
+#blueTitle{
+    color: blue;
+}
+
+#orangeTitle{
+    color: orange;
+}
+
+.title{
+    color: palevioletred;
+}
+
+img {
+    border: 5px solid rgb(14, 187, 149);
+  }
+  
+  body{
+      background-color: aqua;
+  }
+
+  
