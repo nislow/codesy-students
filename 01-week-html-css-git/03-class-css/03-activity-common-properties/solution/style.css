@@ -1,0 +1,18 @@
+.title{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+body{
+background-color: rgb(231, 219, 219);
+}
+#title__main{
+    color: indianred;
+}
+
+#title__sub{
+    color: lightcoral;
+}
+img{
+    border-radius: 20px; 
+}
