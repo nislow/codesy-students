@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body{ font-family: 'Montserrat Swashed', sans-serif;
+}
+
+.cards{
+    background-color: rgb(240, 240, 240);
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.news__card{
+    width: 250px;
+    margin: 0px 10px;
+}
+.news__card .news__card__image{
+height: 150px;
+width: 100%;
+margin-bottom: 10px;
+} 
+
+.news__card .news__card__image img{
+    width: 100%;
+}
+
+.news__card .news__card__text{
+    background-color: white;
+    padding: 10px;
+}
+.news__card .news__card__text h4, .news__card .news__card__text p{
+margin: 0px;
+}
+.news__card .news__card__text h4{
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.news__card .news__card__text h4:hover{
+   text-decoration: underline;
+   color: rgb(157, 157, 252);
+}
+
+.news__card .news__card__text p{
+color: grey;
+}
